@@ -1,6 +1,6 @@
 import unittest
 
-from pand import Board, Solver
+from Board import Board, Solver
 
 
 class MyTestCase(unittest.TestCase):
